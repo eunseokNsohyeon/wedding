@@ -66274,7 +66274,7 @@ return A.O($async$u5,r)},
 u4(){var s=0,r=A.P(t.z),q
 var $async$u4=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:s=3
-return A.S(A.ab0(A.hN("https://map.kakao.com/?urlX=485337.99999999785&urlY=1079220.9999999998&urlLevel=3&itemId=877653040&q=%EC%9B%A8%EB%94%A9%EA%B7%B8%EB%A3%B9%20%EC%9C%84%EB%8D%94%EC%8A%A4%20%EC%95%88%EC%96%91&srcid=877653040",0,null)),$async$u4)
+return A.S(A.ab0(A.hN("https://place.map.kakao.com/877653040",0,null)),$async$u4)
 case 3:q=b
 s=1
 break
