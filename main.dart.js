@@ -66487,7 +66487,7 @@ A.FK.prototype={
 I(a){return A.eP("assets/images/second.jpg",B.aa,B.aP,null)}}
 A.GA.prototype={
 I(a){var s=null
-return A.wu(B.j8,A.c([A.eP("assets/images/third.jpg",B.aa,B.aP,s),A.Eq(s,new A.c0(B.A1,A.iu(!1,!0,A.eP("assets/images/third_button.png",B.aa,B.x0,2.5),s,!0,s,s,s,s,s,s,s,s,new A.a2X(this,a),s,s,s,s),s),s,s,s,s,s,s)],t.D),B.X,B.du)},
+return A.wu(B.j8,A.c([A.eP("assets/images/third.jpeg",B.aa,B.aP,s),A.Eq(s,new A.c0(B.A1,A.iu(!1,!0,A.eP("assets/images/third_button.png",B.aa,B.x0,2.5),s,!0,s,s,s,s,s,s,s,s,new A.a2X(this,a),s,s,s,s),s),s,s,s,s,s,s)],t.D),B.X,B.du)},
 a_6(a){var s=null,r=A.oJ(a,!0),q=B.zo.he(a)
 return r.pL(A.anZ(s,q,!0,s,new A.a2W(),a,s,s,t.z))}}
 A.a2X.prototype={
